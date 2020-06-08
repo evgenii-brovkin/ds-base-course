@@ -16,7 +16,7 @@
 
 ## Introduction
 
-In this module we cover data science toolset and basics needed to complete the course. We start with Python distribution and installation of one. Then briefly go through the language and frequently used packages. After that learn what is and how to use Jupyter Notebook and one of its variations - the Google Colab. You can skip any part, if you feel confident about it, or return to some pages when you need to later in the course.
+In this module, we cover data science toolset and basics needed to complete the course. We start with Python distribution and installation of one. Then briefly go through the language and frequently used packages. After that learn what is and how to use Jupyter Notebook and one of its variations - the Google Colab. You can skip any part, if you feel confident about it, or return to some pages when you need to later in the course.
 
 ## Python distribution and package managers
 ### Anaconda
@@ -62,7 +62,7 @@ Luckily, there are written guidelines for Python. You can find them [here][codes
 
 Instead of developing in IDE data scientists prefer interactive environment for visualization and quick prototyping. One such environment is a **Jupyter Notebook**. The official documentation has a good starting [tutorial][jupyter-tutorial-link].
 
-You can find a video tutorial on installation and usage of the notebooks [here][jupyter-video-tutorial-link]
+You can find a video tutorial on the installation and usage of the notebooks [here][jupyter-video-tutorial-link]
 
 Most notable pages of Jupyter Notebook [documentation][jupyter-docs-link]:
 - The Jupyter Notebook
