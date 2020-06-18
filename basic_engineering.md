@@ -14,6 +14,7 @@
   - [Code Style](#code-style)
 - [Jupyter Notebook](#jupyter-notebook)
   - [Google Colab](#google-colab)
+- [Exercises](#exercises)
 - [Overview](#overview)
 
 ---
@@ -95,6 +96,19 @@ Jupyter Notebook is a powerful tool and has many extensions and capabilities exc
 ### Google Colab
 
 **Google Colab** provides the same functionality as Jupyter notebook and extends it. Most popular data science tools are pre-installed on Colab and can be used right away. It's good for prototyping and training of simple neural networks since Google provides **free GPU instances** on Colab. See the Colab [introduction notebook][colab-link] to learn more.
+
+---
+
+## Exercises
+
+A preferable way to manage dependencies on a project is to use **environment.yml** conda file. This way everyone will have the same version of dependencies and version conflicts will be avoided. However, this is not a project, so you can install all libraries manually. Pick either way and do the following:
+
+- Create a new conda environment with Python 3.7 via conda prompt and name it "course".
+- Install Numpy via pip and Pandas via conda in your new environment.
+- Run Jupyter Notebook and create new notebooks.
+- Import the installed libraries and check that they are working.
+
+You might want to look at the interface or try code something inside the notebook to get used to the Notebook or Python.
 
 ---
 
