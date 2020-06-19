@@ -1,4 +1,4 @@
-# Basic Engineering for Data Science  <!-- omit in toc -->
+# Machine Learning Engineering Fundamentals <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
